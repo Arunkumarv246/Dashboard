@@ -51,7 +51,7 @@ const Sidebar = () => {
           x: -250,
           width: 0,
           transition: {
-            damping: 40,
+            damping: 60,
             delay: 0.15,
           },
         },
